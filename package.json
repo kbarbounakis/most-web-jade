@@ -1,0 +1,31 @@
+{
+  "name": "most-web-jade",
+  "version": "1.0.0",
+  "description": "Most Web Framework Jade View Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbarbounakis/most-web-jade.git"
+  },
+  "keywords": [
+    "most",
+    "web",
+    "jade",
+    "view",
+    "engine",
+    "render",
+    "mvc"
+  ],
+  "author": " <Kyriakos Barbounakis>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/kbarbounakis/most-web-jade/issues"
+  },
+  "homepage": "https://github.com/kbarbounakis/most-web-jade",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}

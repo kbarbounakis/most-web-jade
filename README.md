@@ -16,9 +16,7 @@ Register view engine by adding the following node in config/app.json engines col
     "engines": [
         ...
         {
-            "name": "Jade View Engine",
-            "extension": "jade",
-            "type": "most-web-jade"
+            "name": "Jade View Engine", "extension": "jade", "type": "most-web-jade"
         }
         ...
         ]
