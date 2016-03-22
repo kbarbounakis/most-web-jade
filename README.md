@@ -41,7 +41,7 @@ Create a jade template:
     h1 This is a Jade template
     h2 Hello #{data.name}
 
-and place it in views folder:
+Place it in views folder:
 
     app
         + views
