@@ -48,4 +48,4 @@ Place it in views folder:
             + example
                 hello.html.jade
 
-and finally execute the action http://127.0.0.1:3000/example/hello.html
+and finally execute the action /example/hello.html
