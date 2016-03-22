@@ -1,6 +1,6 @@
 {
   "name": "most-web-jade",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Most Web Framework Jade View Engine",
   "main": "index.js",
   "scripts": {
